@@ -1,10 +1,10 @@
-## nextjs-boilerplate
+# nextjs-boilerplate
 
 This is a [Next.js](https://nextjs.org/) boilerplate.
 
 ## What is inside?
 
-This project uses lot of stuff as:
+This project uses a lot of stuff, as:
 
 - [TypeScript](https://www.typescriptlang.org/)
 - [NextJS](https://nextjs.org/)

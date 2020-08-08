@@ -1,5 +1,7 @@
 # nextjs-boilerplate
 
+![ci](https://github.com/lcnogueira/nextjs-boilerplate/workflows/ci/badge.svg)
+
 This is a [Next.js](https://nextjs.org/) boilerplate.
 
 ## What is inside?

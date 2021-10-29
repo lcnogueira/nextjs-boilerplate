@@ -15096,10 +15096,10 @@ typedarray@^0.0.6:
   resolved "https://registry.yarnpkg.com/typedarray/-/typedarray-0.0.6.tgz#867ac74e3864187b1d3d47d996a78ec5c8830777"
   integrity sha1-hnrHTjhkGHsdPUfZlqeOxciDB3c=
 
-typescript@^4.5.0-dev.20211022:
-  version "4.5.0-dev.20211022"
-  resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.5.0-dev.20211022.tgz#f08bef6159c849edf527c177296b1d31ab99052f"
-  integrity sha512-c9X+eMEixBn1zZW6LXzugaIlCTb9IRp9/DtIv6B8iQbFbshb3AafDtlheo5i2spEDHKqhPjXzka/NmEeVWuY7A==
+typescript@^4.5.0-dev.20211029:
+  version "4.5.0-dev.20211029"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.5.0-dev.20211029.tgz#ec4619ab136bd70ddd9ec1a7c18783b7ce9990a3"
+  integrity sha512-N+2wLMbTq+jQmad78i4wKBGcXudBFWy+QdV1Xu9cx+F5Xi6hubBotFEzS7zA7G1Eevy6NJwlsNy0G8ok2GQ9nw==
 
 uglify-js@^3.1.4:
   version "3.10.1"
